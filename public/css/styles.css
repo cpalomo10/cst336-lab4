@@ -2,3 +2,9 @@ body {
     background-color: #85579A;
     text-align: center;
 }
+
+nav {
+    padding:20px;
+    padding-bottom:1px;
+    font-size:1.5em;
+}
